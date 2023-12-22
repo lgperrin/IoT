@@ -1,13 +1,20 @@
-# IoT
+# Proyectos de IoT en Arduino
 
 | Universidad | Universidad Politécnica de Madrid (UPM) |
 |-----------|-------------|
 | Escuela | ETSIINF |
 | Grado   | Ciencia de Datos e IA |
+| Asignatura | Internet of Things (IoT) |
 | Autora  | Laura García Perrín |
 
-En este repositorio se encuentran las prácticas que he realizado para la asignatura de Internet of Things (IoT), todas ellas implementadas en Arduino y Python. En concreto, se llevan a cabo tres tutoriales que trabajan con el sensor MS5-Stick-C-Plus y que son:
+## Prácticas
 
 1. Sensorización
 2. Protocolos de Comunicación
 3. _Edge Computing_
+
+## Material necesario
+
+- [x] Visual Studio 
+- [x] Arduino IDE   
+- [x] Dispositivo M5 Stick C Plus  
