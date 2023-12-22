@@ -5,7 +5,7 @@
 | Escuela | ETSIINF |
 | Grado   | Ciencia de Datos e IA |
 | Asignatura | Internet of Things (IoT) |
-| Autora  | Laura García Perrín |
+| Autores  | Prisco García-Consuegra Martín y Laura García Perrín |
 
 ## Prácticas
 
