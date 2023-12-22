@@ -35,7 +35,6 @@ Los objetivos que se persiguen son:
 
 | Nombre del Método  | Descripción |
 |--------------------|-------------|
-| Importar Librerías | Carga las librerías necesarias como TensorFlow, librosa, NumPy, y herramientas de Keras y scikit-learn. |
 | preprocess_audio   | Carga y procesa un archivo de audio, convirtiéndolo en un espectrograma. |
 | create_model       | Define y compila un modelo de red neuronal convolucional para el procesamiento de audio. |
 | train_model        | Entrena el modelo de red neuronal con datos de entrenamiento. |
